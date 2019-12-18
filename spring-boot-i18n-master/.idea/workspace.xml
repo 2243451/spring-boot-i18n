@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b926b62-5035-4ed9-87d0-089ca6eb3782" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-i18n.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-i18n.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zheng/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zheng/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zheng/config/I18nConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zheng/config/I18nConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zheng/utils/LocaleMessageSourceUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zheng/utils/LocaleMessageSourceUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zheng/web/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zheng/web/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zheng/web/LanguageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zheng/web/LanguageController.class" afterDir="false" />
-    </list>
+    <list default="true" id="3b926b62-5035-4ed9-87d0-089ca6eb3782" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576598581663</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="集成jar文件">
+      <created>1576633219835</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576633219835</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,10 +158,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="集成jar文件" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="266" y="6" key="CommitChangelistDialog2" timestamp="1576633181117">
+    <state x="266" y="6" key="CommitChangelistDialog2" timestamp="1576633248979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="266" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576633181117" />
+    <state x="266" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576633248979" />
     <state x="147" y="65" key="DiffContextDialog" timestamp="1576598488525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -177,22 +174,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="616" y="303" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1576566830348" />
-    <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1576633191588">
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom" timestamp="1576633255753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576633191588" />
-    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1576633191588">
+    <state width="1493" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576633255753" />
+    <state width="1493" height="188" key="GridCell.Tab.0.center" timestamp="1576633255753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576633191588" />
-    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1576633191588">
+    <state width="1493" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576633255753" />
+    <state width="1493" height="188" key="GridCell.Tab.0.left" timestamp="1576633255753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576633191588" />
-    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1576633191588">
+    <state width="1493" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576633255753" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right" timestamp="1576633255753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576633191588" />
+    <state width="1493" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576633255753" />
     <state width="1493" height="317" key="GridCell.Tab.1.bottom" timestamp="1576575134831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -217,10 +214,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576566320389" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1576598583136">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1576633222364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1576598583136" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1576633222364" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1576566426078">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
